@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os, json, base64, random, time, tempfile
 from flask import Flask, request, jsonify
 from flask_cors import CORS
@@ -6,7 +7,7 @@ import google.generativeai as genai
 app = Flask(__name__)
 CORS(app)
 
-genai.configure(api_key=os.environ.get("GEMINI_API_KEY", "YOUR_KEY_HERE"))
+genai.configure(api_key="AIzaSyDGjzq3KQ0FmpefIk3S4hUC54gLBMtvsqM")
 model = genai.GenerativeModel("gemini-1.5-pro")
 
 # ─── Prompts ─────────────────────────────────────────────────────────────────
@@ -382,7 +383,7 @@ def chat():
         question=question
     )
 
-    api_key = os.environ.get("GEMINI_API_KEY", "YOUR_KEY_HERE")
+    api_key = "AIzaSyDGjzq3KQ0FmpefIk3S4hUC54gLBMtvsqM"
     if api_key == "YOUR_KEY_HERE":
         return jsonify({"answer": get_demo_answer(question, context), "demo": True})
 
