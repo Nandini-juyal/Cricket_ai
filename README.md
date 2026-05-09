@@ -59,7 +59,7 @@ React Dashboard
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- Gemini API key (get free credits: https://trygcp.dev/claim/deveco-gdg-34ef524fcc7)
+- Gemini API key 
 
 ### Backend
 
@@ -120,7 +120,10 @@ cricket-ai/
 
 ## 📸 Screenshots
 
-*(Add screenshots after demo)*
+
+<img width="1918" height="916" alt="Screenshot 2026-05-09 141028" src="https://github.com/user-attachments/assets/597eb727-c7df-4cb1-b725-f5943872ddea" />
+<img width="1918" height="911" alt="Screenshot 2026-05-09 141523" src="https://github.com/user-attachments/assets/0a6fcb93-3887-46d7-8ee3-6cb9f0eaf0bf" />
+<img width="1918" height="911" alt="Screenshot 2026-05-09 141546" src="https://github.com/user-attachments/assets/9ab43fe5-a7d0-444c-b2cc-3786685ac019" />
 
 - Upload screen with drag-and-drop
 - Analysis results with wagon wheel
