@@ -1,6 +1,6 @@
 # 🏏 CricketIQ — AI-Powered Match Analysis
 
-> **Build With AI :: Agentic Premier League · Delhi · May 2026**
+
 
 CricketIQ uses **Gemini 1.5 Pro Vision** to analyze cricket match images and videos, extracting shot types, ball direction, estimated ball speed, field zones, and generating live commentary — all in seconds.
 
@@ -143,13 +143,7 @@ cricket-ai/
 
 ---
 
-## 🏆 Submission
-
-- **Event:** Build With AI :: Agentic Premier League, Delhi
-- **Team:** Solo/Duo
-- **Submission:** https://www.commudle.com/builds/create?campaign=BWAI-APL-DELHI
-- **Hashtags:** #BWAI-APL-DELHI
 
 ---
 
-*Built in under 4 hours using Gemini AI at Build With AI :: APL Delhi, May 2026*
+*Built in under 4 hours using Gemini AI*
